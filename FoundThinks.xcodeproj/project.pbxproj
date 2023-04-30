@@ -28,6 +28,8 @@
 		442105CA29FDC60400FBFB45 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105C929FDC60400FBFB45 /* HikeBadge.swift */; };
 		442105CC29FDC9ED00FBFB45 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105CB29FDC9ED00FBFB45 /* ProfileEditor.swift */; };
 		442105CF29FDCE0300FBFB45 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105CE29FDCE0300FBFB45 /* PageViewController.swift */; };
+		442105D129FE725600FBFB45 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105D029FE725600FBFB45 /* FeatureCard.swift */; };
+		442105D329FE72D500FBFB45 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105D229FE72D500FBFB45 /* PageView.swift */; };
 		4496A39F29FD4A9000B3357D /* FoundThinksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496A39E29FD4A9000B3357D /* FoundThinksApp.swift */; };
 		4496A3A129FD4A9000B3357D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496A3A029FD4A9000B3357D /* ContentView.swift */; };
 		4496A3A329FD4A9200B3357D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4496A3A229FD4A9200B3357D /* Assets.xcassets */; };
@@ -64,6 +66,8 @@
 		442105C929FDC60400FBFB45 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		442105CB29FDC9ED00FBFB45 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		442105CE29FDCE0300FBFB45 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		442105D029FE725600FBFB45 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
+		442105D229FE72D500FBFB45 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		4496A39B29FD4A9000B3357D /* FoundThinks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoundThinks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4496A39E29FD4A9000B3357D /* FoundThinksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundThinksApp.swift; sourceTree = "<group>"; };
 		4496A3A029FD4A9000B3357D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +100,7 @@
 				4496A3BB29FD60E300B3357D /* LandmarkRow.swift */,
 				4496A3BD29FD623C00B3357D /* LandmarkList.swift */,
 				4496A3BF29FD639A00B3357D /* LandmarkDetail.swift */,
+				442105D029FE725600FBFB45 /* FeatureCard.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -158,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				442105CE29FDCE0300FBFB45 /* PageViewController.swift */,
+				442105D229FE72D500FBFB45 /* PageView.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -310,6 +316,7 @@
 				442105C329FDC43A00FBFB45 /* Profile.swift in Sources */,
 				442105A429FD890C00FBFB45 /* HexagonParameters.swift in Sources */,
 				442105BD29FDBC9700FBFB45 /* CategoryHome.swift in Sources */,
+				442105D129FE725600FBFB45 /* FeatureCard.swift in Sources */,
 				442105B829FDB5DD00FBFB45 /* HikeGraph.swift in Sources */,
 				442105AC29FD8D1600FBFB45 /* Badge.swift in Sources */,
 				4496A3A129FD4A9000B3357D /* ContentView.swift in Sources */,
@@ -323,6 +330,7 @@
 				442105C629FDC47F00FBFB45 /* ProfileHost.swift in Sources */,
 				442105B129FDB56A00FBFB45 /* Hike.swift in Sources */,
 				442105AA29FD8CA500FBFB45 /* RotatedBadgeSymbol.swift in Sources */,
+				442105D329FE72D500FBFB45 /* PageView.swift in Sources */,
 				442105A829FD8BDB00FBFB45 /* BadgeSymbol.swift in Sources */,
 				442105CC29FDC9ED00FBFB45 /* ProfileEditor.swift in Sources */,
 				4496A3BE29FD623C00B3357D /* LandmarkList.swift in Sources */,
