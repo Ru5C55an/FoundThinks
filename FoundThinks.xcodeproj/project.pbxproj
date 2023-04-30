@@ -30,6 +30,7 @@
 		442105CF29FDCE0300FBFB45 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105CE29FDCE0300FBFB45 /* PageViewController.swift */; };
 		442105D129FE725600FBFB45 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105D029FE725600FBFB45 /* FeatureCard.swift */; };
 		442105D329FE72D500FBFB45 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105D229FE72D500FBFB45 /* PageView.swift */; };
+		442105D529FE77C300FBFB45 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442105D429FE77C300FBFB45 /* PageControl.swift */; };
 		4496A39F29FD4A9000B3357D /* FoundThinksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496A39E29FD4A9000B3357D /* FoundThinksApp.swift */; };
 		4496A3A129FD4A9000B3357D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496A3A029FD4A9000B3357D /* ContentView.swift */; };
 		4496A3A329FD4A9200B3357D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4496A3A229FD4A9200B3357D /* Assets.xcassets */; };
@@ -68,6 +69,7 @@
 		442105CE29FDCE0300FBFB45 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		442105D029FE725600FBFB45 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		442105D229FE72D500FBFB45 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		442105D429FE77C300FBFB45 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		4496A39B29FD4A9000B3357D /* FoundThinks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoundThinks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4496A39E29FD4A9000B3357D /* FoundThinksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundThinksApp.swift; sourceTree = "<group>"; };
 		4496A3A029FD4A9000B3357D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 			children = (
 				442105CE29FDCE0300FBFB45 /* PageViewController.swift */,
 				442105D229FE72D500FBFB45 /* PageView.swift */,
+				442105D429FE77C300FBFB45 /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				442105CC29FDC9ED00FBFB45 /* ProfileEditor.swift in Sources */,
 				4496A3BE29FD623C00B3357D /* LandmarkList.swift in Sources */,
 				442105BA29FDB5DD00FBFB45 /* HikeView.swift in Sources */,
+				442105D529FE77C300FBFB45 /* PageControl.swift in Sources */,
 				4496A3C029FD639A00B3357D /* LandmarkDetail.swift in Sources */,
 				442105CF29FDCE0300FBFB45 /* PageViewController.swift in Sources */,
 				4421059E29FD855600FBFB45 /* FavouriteButton.swift in Sources */,
